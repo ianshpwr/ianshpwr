@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I’m Ianshpwr
 
-<!--
-**ianshpwr/ianshpwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proficient in data structures and algorithms with a strong focus on building responsive, dynamic web applications while leveraging AI tools to enhance development efficiency and user experience.
 
-Here are some ideas to get you started:
+### 💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on full-stack web development projects with a focus on performance and usability.
+- 🌱 Actively learning MERN stack development and exploring AI fundamentals.
+- 🧠 Interested in data-driven solutions, backend optimization, and intelligent automation.
+- 🛠️ Tech Stack:
+  - **Languages:** JavaScript, Python, HTML, CSS
+  - **Frameworks & Libraries:** React, Node.js, Express, FastAPI
+  - **Databases:** MongoDB, SQL
+  - **Tools:** Git, VS Code, Postman, Pandas, NumPy
+
+### 🤝 Looking to Collaborate On
+
+- Web applications with real-world impact
+- Dashboards, automation tools, and AI-integrated solutions
+- Open-source or community-driven tech initiatives
+
+### 📈 Goals
+
+- Build industry-grade, production-ready applications
+- Enhance system design and data structure proficiency
+- Contribute to meaningful open-source projects
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonicforge&theme=blue-green&hide_border=false">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonicforge&theme=blue-green&hide_border=false](https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true">
+
+Thanks for visiting my profile!
