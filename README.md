@@ -27,6 +27,6 @@ Proficient in data structures and algorithms with a strong focus on building res
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianshpwr&theme=blue-green&hide_border=false">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianshpwr&theme=blue-green&hide_border=false](https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true">
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="pythonicforge" />
 
 Thanks for visiting my profile!
