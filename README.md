@@ -1,4 +1,4 @@
-## Hi, I’m Ianshpwr
+## Hi, I’m Ansh Pawar
 
 I specialize in building intelligent systems powered by LLM APIs and crafting responsive frontends that integrate AI to deliver smarter, more interactive experiences.
 
