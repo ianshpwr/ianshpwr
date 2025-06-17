@@ -1,5 +1,3 @@
-## Hi, I’m Ansh Pawar
-
 I build intelligent systems powered by LLM APIs and develop responsive frontends that integrate AI to enhance user experience.
 
 ### What I’m Working On
