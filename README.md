@@ -26,6 +26,6 @@ I build intelligent systems powered by LLM APIs and develop responsive frontends
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianshpwr&theme=blue-green&hide_border=false">
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="ianshpwr GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianshpwr&theme=blue-green&hide_border=false">
 
