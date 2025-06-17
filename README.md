@@ -1,39 +1,39 @@
-## 👋 Hi, I’m Ianshpwr
+## Hi, I’m Ianshpwr
 
-I build **AI agents** and intelligent systems using powerful LLM APIs, while also crafting responsive, modern frontends that integrate AI tools to elevate user experience and interactivity.
+I specialize in building intelligent systems powered by LLM APIs and crafting responsive frontends that integrate AI to deliver smarter, more interactive experiences.
 
-### 🧠 What I’m Exploring
+### What I’m Working On
 
-- 🤖 Developing AI agents with **Gemini API**, **Groq**, and other **LLM APIs**
-- 🔁 Evaluating and comparing responses from multiple LLMs for performance and reasoning depth
-- 🔄 Automating workflows using agent loops and prompt chaining
-- 🧪 Prototyping with **Gradio**, **Jupyter Notebooks**, and **Aceternity**
-- 🧬 Building intelligent UIs with **React**, **shadcn/ui**, and **AI-enhanced features**
+- Building AI agents using Gemini API, Groq, and other LLM platforms  
+- Evaluating and comparing LLM responses for reasoning quality and performance  
+- Designing agent workflows with feedback loops, chaining, and automation logic  
+- Prototyping tools and experiments with Gradio, Jupyter Notebooks, and Aceternity  
+- Creating intuitive UIs using React, shadcn/ui, and AI-enhanced interactions  
 
-### 🛠️ Core Tech & Tools
+### Tech Stack
 
 - **Languages:** Python, JavaScript  
-- **LLM APIs:** Gemini, Groq, OpenAI, Replicate  
-- **Frontend & UI Tools:** React, shadcn/ui, Aceternity  
-- **Prototyping & Experimentation:** Gradio, Jupyter Notebook, FastAPI  
-- **Data & Utils:** Pandas, NumPy, Git  
+- **LLM & AI APIs:** Gemini, Groq, OpenAI, Replicate  
+- **Frontend & UI:** React, shadcn/ui, Aceternity  
+- **Prototyping:** Gradio, Jupyter Notebook, FastAPI  
+- **Data & Utilities:** Pandas, NumPy, Git  
 
-### 🤝 Let’s Collaborate On
+### Open to Collaborations On
 
-- Research and development of AI agents and LLM-based workflows  
-- Intelligent, AI-powered user interfaces and tools  
-- Real-world web applications that leverage AI capabilities  
-- Open-source experimentation around LLM evaluation and orchestration  
+- Agent systems and LLM research  
+- Intelligent, AI-powered web tools  
+- Real-world applications that combine UI with generative intelligence  
+- Open-source contributions around LLM orchestration and evaluation  
 
-### 📈 Goals
+### Goals
 
-- Build intelligent, adaptive agentic systems  
-- Merge UI development with AI to create seamless, smart applications  
-- Contribute to meaningful open-source AI tools and infrastructure  
+- Build adaptive, production-ready agentic systems  
+- Blend frontend development with AI for seamless smart applications  
+- Contribute to meaningful, open-source AI infrastructure  
 
 ---
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianshpwr&theme=blue-green&hide_border=false">
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="ianshpwr GitHub Stats" />
 
-Thanks for stopping by!
+Thanks for visiting.
