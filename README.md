@@ -1,12 +1,18 @@
-<h1 align="center">✨ Hey, I'm Ansh! ✨</h1>
+<table>
+  <tr>
+    <td width="250" align="center" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="220">
+    </td>
+    <td valign="top">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="250"/>
-</p>
+# ✨ Hey, I'm Ansh!
 
-<p align="center">
-  I build intelligent systems powered by LLMs and craft playful, aesthetic UIs that make AI feel magical ✨  
-</p>
+I build intelligent systems powered by LLMs and craft playful, aesthetic UIs that make AI feel magical ✨  
+Currently exploring agentic workflows, reasoning evals, and cute AI-powered interfaces.
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -23,20 +29,13 @@
 > Cute little things I’m building on the internet 💫
 
 - ✨ **DejaView – AI Memory Engine**  
-  An LLM-powered memory system using FAISS + embeddings.
+  LLM-backed long-term memory using FAISS.
 
 - 🎮 **DSA Battle Matchmaking**  
   Real-time WebSocket-powered coding duels.
 
 - 🧠 **Agent Reasoning Playground**  
   Compare reasoning depth & performance across LLM APIs.
-
----
-
-## 🎯 My Goals  
-- 🌟 Build adaptive, production-ready agentic systems  
-- 🪄 Combine AI + UI to create delightful user experiences  
-- 🌍 Contribute to open-source AI tooling  
 
 ---
 
@@ -54,7 +53,3 @@
   <a href="https://github.com/ianshpwr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ianshpwr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
-<p align="center">✨ Thanks for stopping by — sending you good vibes ✨</p>
