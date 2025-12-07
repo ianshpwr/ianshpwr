@@ -1,14 +1,14 @@
 <table>
   <tr>
-    <td width="250" align="center" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="220">
+    <td width="260" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="230" />
     </td>
-    <td valign="top">
+    <td valign="middle">
 
-# ✨ Hey, I'm Ansh!
+## Hi, I'm Ansh
 
-I build intelligent systems powered by LLMs and craft playful, aesthetic UIs that make AI feel magical ✨  
-Currently exploring agentic workflows, reasoning evals, and cute AI-powered interfaces.
+I build intelligent systems powered by LLM APIs and craft clean, responsive UIs.  
+I like working on agentic workflows, reasoning evaluations, and minimal, aesthetic interfaces.
 
 </td>
   </tr>
@@ -16,40 +16,22 @@ Currently exploring agentic workflows, reasoning evals, and cute AI-powered inte
 
 ---
 
-## 💖 What I’m Working On
-- 🤖 Building AI agents using **Gemini**, **Groq**, **OpenAI**, and more  
-- 🌱 Experimenting with reasoning, evaluation & agent workflows  
-- 🎛️ Prototyping fun AI tools in **Gradio**, **Jupyter**, and **Aceternity**  
-- 🎨 Designing cute, responsive UIs with **React + shadcn/ui**  
-- 🔁 Automating pipelines with chaining + memory loops  
+### What I’m Exploring
+- Building LLM-powered agents  
+- Reasoning and evaluation experiments  
+- Simple, elegant AI interfaces  
+- Workflow automation and chaining  
 
 ---
 
-## 🌸 Featured Projects  
-> Cute little things I’m building on the internet 💫
-
-- ✨ **DejaView – AI Memory Engine**  
-  LLM-backed long-term memory using FAISS.
-
-- 🎮 **DSA Battle Matchmaking**  
-  Real-time WebSocket-powered coding duels.
-
-- 🧠 **Agent Reasoning Playground**  
-  Compare reasoning depth & performance across LLM APIs.
+### Selected Work
+- **DejaView** — AI memory engine using FAISS  
+- **Coding Battles** — WebSocket-based real-time matchmaking  
+- **LLM Reasoning Playground** — Compare model depth & performance  
 
 ---
-
-## 🌼 GitHub Glow-Up Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=tokyonight&hide_border=false&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ianshpwr&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-## 💌 Connect With Me
-<p align="center">
-  <a href="https://github.com/ianshpwr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ianshpwr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=transparent&hide_border=true&show_icons=false" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ianshpwr&theme=transparent&hide_border=true" />
 </p>
