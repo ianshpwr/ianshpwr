@@ -1,50 +1,46 @@
-<h1 align="center">Hi, I'm Ansh 👋</h1>
+<h1 align="center">✨ Hey, I'm Ansh! ✨</h1>
 
 <p align="center">
-  I build intelligent systems powered by LLMs and design responsive frontends that turn AI into seamless user experiences.
+  <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="250"/>
+</p>
+
+<p align="center">
+  I build intelligent systems powered by LLMs and craft playful, aesthetic UIs that make AI feel magical ✨  
 </p>
 
 ---
 
-## 🚀 What I Do
-- 🧠 Build AI agents using **Gemini**, **Groq**, **OpenAI**, and other LLM APIs  
-- 🔁 Automate agent workflows with chaining, memory & feedback loops  
-- ⚙️ Compare LLM outputs for reasoning quality & performance  
-- 🧪 Prototype fast using **Gradio**, **Jupyter**, and **Aceternity**  
-- 💻 Create smart UIs with **React**, **shadcn/ui**, and AI features  
+## 💖 What I’m Working On
+- 🤖 Building AI agents using **Gemini**, **Groq**, **OpenAI**, and more  
+- 🌱 Experimenting with reasoning, evaluation & agent workflows  
+- 🎛️ Prototyping fun AI tools in **Gradio**, **Jupyter**, and **Aceternity**  
+- 🎨 Designing cute, responsive UIs with **React + shadcn/ui**  
+- 🔁 Automating pipelines with chaining + memory loops  
 
 ---
 
-## ⚡ Featured Projects
-> *(Add 2–3 of your best projects for instant credibility)*
+## 🌸 Featured Projects  
+> Cute little things I’m building on the internet 💫
 
-- 🤖 **DejaView — AI Memory Engine**  
-  LLM-powered system that stores and retrieves contextual memory using FAISS.
-  
-- 🧠 **Agentic Pipeline Experiments**  
-  LLM comparison platform to benchmark reasoning & performance across APIs.
+- ✨ **DejaView – AI Memory Engine**  
+  An LLM-powered memory system using FAISS + embeddings.
 
-- 🕹️ **DSA Battle Matchmaking**  
-  Real-time coding battles using WebSockets + FastAPI backend.
+- 🎮 **DSA Battle Matchmaking**  
+  Real-time WebSocket-powered coding duels.
 
----
-
-## 🎯 Goals
-- Build adaptive, production-ready agentic systems  
-- Combine AI + UI to create seamless intelligent experiences  
-- Contribute to open-source AI tooling  
+- 🧠 **Agent Reasoning Playground**  
+  Compare reasoning depth & performance across LLM APIs.
 
 ---
 
-## 📫 Connect With Me
-<p align="left">
-  <a href="https://github.com/ianshpwr"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ianshpwr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+## 🎯 My Goals  
+- 🌟 Build adaptive, production-ready agentic systems  
+- 🪄 Combine AI + UI to create delightful user experiences  
+- 🌍 Contribute to open-source AI tooling  
 
 ---
 
-## 📊 GitHub Stats
+## 🌼 GitHub Glow-Up Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=tokyonight&hide_border=false&count_private=true" />
@@ -52,3 +48,13 @@
 </p>
 
 ---
+
+## 💌 Connect With Me
+<p align="center">
+  <a href="https://github.com/ianshpwr"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ianshpwr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for stopping by — sending you good vibes ✨</p>
