@@ -15,25 +15,6 @@
 
 ---
 
-## 🧩 Tech Stack
-
-### **Languages**
-Python • JavaScript  
-
-### **AI / LLM APIs**
-Gemini • Groq • OpenAI • Replicate  
-
-### **Frontend & UI**
-React • shadcn/ui • Aceternity  
-
-### **Backend & Prototyping**
-FastAPI • Gradio • Jupyter Notebooks  
-
-### **Data / Tools**
-Pandas • NumPy • Git  
-
----
-
 ## ⚡ Featured Projects
 > *(Add 2–3 of your best projects for instant credibility)*
 
