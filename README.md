@@ -1,29 +1,73 @@
-I build intelligent systems powered by LLM APIs and develop responsive frontends that integrate AI to enhance user experience.
+<h1 align="center">Hi, I'm Ansh 👋</h1>
 
-### What I’m Working On
+<p align="center">
+  I build intelligent systems powered by LLMs and design responsive frontends that turn AI into seamless user experiences.
+</p>
 
-- Developing AI agents using Gemini API, Groq, and other LLM platforms  
-- Comparing LLM outputs for reasoning quality and performance  
-- Automating agent workflows with chaining and feedback loops  
-- Prototyping with Gradio, Jupyter Notebooks, and Aceternity  
-- Creating smart UIs with React, shadcn/ui, and AI features  
+---
 
-### Tech Stack
+## 🚀 What I Do
+- 🧠 Build AI agents using **Gemini**, **Groq**, **OpenAI**, and other LLM APIs  
+- 🔁 Automate agent workflows with chaining, memory & feedback loops  
+- ⚙️ Compare LLM outputs for reasoning quality & performance  
+- 🧪 Prototype fast using **Gradio**, **Jupyter**, and **Aceternity**  
+- 💻 Create smart UIs with **React**, **shadcn/ui**, and AI features  
 
-- **Languages:** Python, JavaScript  
-- **LLM APIs:** Gemini, Groq, OpenAI, Replicate  
-- **Frontend/UI:** React, shadcn/ui, Aceternity  
-- **Prototyping:** Gradio, Jupyter, FastAPI  
-- **Data:** Pandas, NumPy, Git  
+---
 
-### Goals
+## 🧩 Tech Stack
 
+### **Languages**
+Python • JavaScript  
+
+### **AI / LLM APIs**
+Gemini • Groq • OpenAI • Replicate  
+
+### **Frontend & UI**
+React • shadcn/ui • Aceternity  
+
+### **Backend & Prototyping**
+FastAPI • Gradio • Jupyter Notebooks  
+
+### **Data / Tools**
+Pandas • NumPy • Git  
+
+---
+
+## ⚡ Featured Projects
+> *(Add 2–3 of your best projects for instant credibility)*
+
+- 🤖 **DejaView — AI Memory Engine**  
+  LLM-powered system that stores and retrieves contextual memory using FAISS.
+  
+- 🧠 **Agentic Pipeline Experiments**  
+  LLM comparison platform to benchmark reasoning & performance across APIs.
+
+- 🕹️ **DSA Battle Matchmaking**  
+  Real-time coding battles using WebSockets + FastAPI backend.
+
+---
+
+## 🎯 Goals
 - Build adaptive, production-ready agentic systems  
-- Combine AI and UI for seamless, intelligent experiences  
+- Combine AI + UI to create seamless intelligent experiences  
 - Contribute to open-source AI tooling  
 
 ---
 
-<img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="ianshpwr GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianshpwr&theme=blue-green&hide_border=false">
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://github.com/ianshpwr"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ianshpwr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=tokyonight&hide_border=false&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ianshpwr&theme=tokyonight&hide_border=false" />
+</p>
+
+---
