@@ -24,13 +24,6 @@ I like working on agentic workflows, reasoning evaluations, and minimal, aesthet
 
 ---
 
-### Selected Work
-- **DejaView** — AI memory engine using FAISS  
-- **Coding Battles** — WebSocket-based real-time matchmaking  
-- **LLM Reasoning Playground** — Compare model depth & performance  
-
----
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ianshpwr&theme=transparent&hide_border=true&show_icons=false" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ianshpwr&theme=transparent&hide_border=true" />
