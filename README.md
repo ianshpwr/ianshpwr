@@ -7,8 +7,8 @@
 
 ## Hi, I'm Ansh
 
-I build intelligent systems powered by LLM APIs and craft clean, responsive UIs.  
-I like working on agentic workflows, reasoning evaluations, and minimal, aesthetic interfaces.
+I build fast, clean websites and explore how AI can simplify real-world problems.  
+I love experimenting with agentic workflows, automation, and minimal UI designs.
 
 </td>
   </tr>
@@ -17,9 +17,9 @@ I like working on agentic workflows, reasoning evaluations, and minimal, aesthet
 ---
 
 ### What I’m Exploring
-- Building LLM-powered agents  
-- Reasoning and evaluation experiments  
-- Simple, elegant AI interfaces  
-- Workflow automation and chaining  
+- Building modern, performant websites  
+- Experimenting with AI + automation  
+- Clean, minimal UI/UX  
+- Fun side-projects & workflow experiments  
 
 ---
